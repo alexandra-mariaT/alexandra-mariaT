@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi👋, I'm Alexandra
 
-<!--
-**alexandra-mariaT/alexandra-mariaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Student & Aspiring Software Developer focused on Backend systems and IoT integration. Currently exploring scalable architectures and energy-efficient hardware solutions. I am actively seeking an internship for **Summer 2026** through an **Erasmus+ Traineeship Program**.
+### 🛠️ Technical Stack
+* **Languages:** C/C++, Java, C#, TypeScript, SQL
+* **Backend:** NestJS, Node.js, .NET Core
+* **Databases:** PostgreSQL, MS SQL Server, SQLite
+* **IoT & Tools:** ESP32, Arduino, Docker, Git
 
-Here are some ideas to get you started:
+### 🚀 Recent Projects
+* **[Food Waste Prevention Backend](https://github.com/alexandra-mariaT/food-waste-prevention-backend)** – Developed a personal Proof of Concept (PoC) for a resource management system during a technical mentorship program. Built with NestJS and PostgreSQL.
+* **[Air Quality Monitor](https://github.com/alexandra-mariaT/ESP32-AirQuality-Monitoring-Device-IoT)** – Environmental data collection system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+* alexandra.maria.titieni@gmail.com
