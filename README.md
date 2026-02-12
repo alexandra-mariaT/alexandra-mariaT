@@ -1,6 +1,6 @@
 # Hi👋, I'm Alexandra
 
-I'm a Computer Science Student & Aspiring Software Developer focused on Backend systems and IoT integration. Currently exploring scalable architectures and energy-efficient hardware solutions. I am actively seeking an internship for **Summer 2026** through an **Erasmus+ Traineeship Program**.
+A Computer Science Student & Aspiring Software Developer focused on Backend systems and IoT integration. Currently exploring scalable architectures and energy-efficient hardware solutions. I am actively seeking an internship for **Summer 2026** through an **Erasmus+ Traineeship Program**.
 ### 🛠️ Technical Stack
 * **Languages:** C/C++, Java, C#, TypeScript, SQL
 * **Backend:** NestJS, Node.js, .NET Core
